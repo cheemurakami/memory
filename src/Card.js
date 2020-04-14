@@ -3,6 +3,7 @@ export function Card() {
   this.number = number;
   this.cards = [];
 }
+//hggjgjhgjhg
 
 
 //for this time we need 4 divs or some boxes for these cards////////////
